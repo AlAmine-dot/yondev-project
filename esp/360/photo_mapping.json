@@ -1,0 +1,310 @@
+[
+  {
+    "order": 1,
+    "nodeId": "80dfeaac-fc38-4b4d-9afe-75b68cfba415",
+    "nodeName": "Sortie 1 Campus (2)",
+    "originalPhoto": "IMG_20260325_152207_00_227.webp",
+    "newName": "P1.webp"
+  },
+  {
+    "order": 2,
+    "nodeId": "1dce5d53-ea56-4b02-b350-09e087cd614e",
+    "nodeName": "Sortie 1 Campus",
+    "originalPhoto": "IMG_20260325_152233_00_228.webp",
+    "newName": "P2.webp"
+  },
+  {
+    "order": 3,
+    "nodeId": "6555bb2b-dec5-4005-97a4-fabf543f8336",
+    "nodeName": "C57",
+    "originalPhoto": "IMG_20260325_152322_00_229.webp",
+    "newName": "P3.webp"
+  },
+  {
+    "order": 4,
+    "nodeId": "bbbfa2b1-f98c-4014-9c9a-ced18bbe311b",
+    "nodeName": "C1",
+    "originalPhoto": "IMG_20260325_152410_00_230.webp",
+    "newName": "P4.webp"
+  },
+  {
+    "order": 5,
+    "nodeId": "0485e660-72e1-4519-ba6b-ab953e8af36f",
+    "nodeName": "Cor 3",
+    "originalPhoto": "IMG_20260325_152453_00_231.webp",
+    "newName": "P5.webp"
+  },
+  {
+    "order": 6,
+    "nodeId": "73a75a3a-c2f9-4b3b-b54f-21e3e5d6a64f",
+    "nodeName": "C3",
+    "originalPhoto": "IMG_20260325_152533_00_232.webp",
+    "newName": "P6.webp"
+  },
+  {
+    "order": 7,
+    "nodeId": "6531dc34-b77e-4f8b-ae5f-37990dc4fe47",
+    "nodeName": "C4",
+    "originalPhoto": "IMG_20260325_152750_00_233.webp",
+    "newName": "P7.webp"
+  },
+  {
+    "order": 8,
+    "nodeId": "59976de8-7d24-4817-a505-07ac9f922b40",
+    "nodeName": "C4",
+    "originalPhoto": "IMG_20260325_152909_00_234.webp",
+    "newName": "P8.webp"
+  },
+  {
+    "order": 9,
+    "nodeId": "5f2151c7-45bc-4a65-8274-35e0d15d0404",
+    "nodeName": "Cor 4",
+    "originalPhoto": "IMG_20260325_153015_00_235.webp",
+    "newName": "P9.webp"
+  },
+  {
+    "order": 10,
+    "nodeId": "83a5f751-67d5-424d-8ba9-8ffd15c4b420",
+    "nodeName": "C5",
+    "originalPhoto": "IMG_20260325_153109_00_236.webp",
+    "newName": "P10.webp"
+  },
+  {
+    "order": 11,
+    "nodeId": "19476015-1ab4-40c4-9992-69920161be28",
+    "nodeName": "C58",
+    "originalPhoto": "IMG_20260325_153137_00_237.webp",
+    "newName": "P11.webp"
+  },
+  {
+    "order": 12,
+    "nodeId": "52eda6f8-58f3-4516-84e8-ab88c97cccf0",
+    "nodeName": "C53",
+    "originalPhoto": "IMG_20260325_153309_00_238.webp",
+    "newName": "P12.webp"
+  },
+  {
+    "order": 13,
+    "nodeId": "b4f7ee80-cf5e-412b-a865-166169822d3e",
+    "nodeName": "Cor?34",
+    "originalPhoto": "IMG_20260325_153504_00_239.webp",
+    "newName": "P13.webp"
+  },
+  {
+    "order": 14,
+    "nodeId": "3692b90c-a8dd-4863-8f05-e7b6814a03b4",
+    "nodeName": "C56",
+    "originalPhoto": "IMG_20260325_153550_00_240.webp",
+    "newName": "P14.webp"
+  },
+  {
+    "order": 15,
+    "nodeId": "e16c27b3-052b-4edc-8aee-8929e1faf2c4",
+    "nodeName": "C33",
+    "originalPhoto": "IMG_20260325_153626_00_241.webp",
+    "newName": "P15.webp"
+  },
+  {
+    "order": 16,
+    "nodeId": "fba97b8f-710c-4832-85e1-c6eeaf8a5965",
+    "nodeName": "C30",
+    "originalPhoto": "IMG_20260325_153718_00_242.webp",
+    "newName": "P16.webp"
+  },
+  {
+    "order": 17,
+    "nodeId": "9d7044ff-2a35-41ab-bfb1-88dad466a47a",
+    "nodeName": "C29",
+    "originalPhoto": "IMG_20260325_153812_00_243.webp",
+    "newName": "P17.webp"
+  },
+  {
+    "order": 18,
+    "nodeId": "dc2c1b30-9f6e-4f68-acaa-ef5accb52bbe",
+    "nodeName": "C11",
+    "originalPhoto": "IMG_20260325_153905_00_244.webp",
+    "newName": "P18.webp"
+  },
+  {
+    "order": 19,
+    "nodeId": "0be1b364-1abf-4df8-8083-93d1eebc18f1",
+    "nodeName": "Cor12",
+    "originalPhoto": "IMG_20260325_154014_00_245.webp",
+    "newName": "P19.webp"
+  },
+  {
+    "order": 20,
+    "nodeId": "81566ce4-65a4-46f5-993f-3d6798fce172",
+    "nodeName": "C54",
+    "originalPhoto": "IMG_20260325_154046_00_246.webp",
+    "newName": "P20.webp"
+  },
+  {
+    "order": 21,
+    "nodeId": "6a30488e-7847-4eec-acee-e18e288e9298",
+    "nodeName": "C52",
+    "originalPhoto": "IMG_20260325_154116_00_247.webp",
+    "newName": "P21.webp"
+  },
+  {
+    "order": 22,
+    "nodeId": "d5c6442f-805f-4509-b981-5dc803d8e902",
+    "nodeName": "C2",
+    "originalPhoto": "IMG_20260325_154350_00_248.webp",
+    "newName": "P22.webp"
+  },
+  {
+    "order": 23,
+    "nodeId": "220e97fd-f599-4605-bb4e-c41952e037cf",
+    "nodeName": "Escalier 1",
+    "originalPhoto": "IMG_20260325_154418_00_249.webp",
+    "newName": "P23.webp"
+  },
+  {
+    "order": 24,
+    "nodeId": "27000c50-9842-49b6-a073-f48313fb4af0",
+    "nodeName": "Entrée Salle A05",
+    "originalPhoto": "IMG_20260325_154516_00_250.webp",
+    "newName": "P24.webp"
+  },
+  {
+    "order": 25,
+    "nodeId": "8764a0ec-104e-47aa-8804-625ba71954f7",
+    "nodeName": "Entrée Salle A08",
+    "originalPhoto": "IMG_20260325_154545_00_251.webp",
+    "newName": "P25.webp"
+  },
+  {
+    "order": 26,
+    "nodeId": "43c99eff-0c47-42bd-a076-82a49f772c5d",
+    "nodeName": "Entrée Salle A10",
+    "originalPhoto": "IMG_20260325_154612_00_252.webp",
+    "newName": "P26.webp"
+  },
+  {
+    "order": 27,
+    "nodeId": "4323382e-1de0-4268-8974-99a0da6676f3",
+    "nodeName": "Entrée Salle A12",
+    "originalPhoto": "IMG_20260325_154630_00_253.webp",
+    "newName": "P27.webp"
+  },
+  {
+    "order": 28,
+    "nodeId": "28b56e3a-1c3c-4974-b729-dae397bd4220",
+    "nodeName": "Entrée Salle A14",
+    "originalPhoto": "IMG_20260325_154655_00_254.webp",
+    "newName": "P28.webp"
+  },
+  {
+    "order": 29,
+    "nodeId": "5ca9257c-67e5-49a8-ae40-5f1870db1cfb",
+    "nodeName": "Entrée Salle A16",
+    "originalPhoto": "IMG_20260325_154714_00_255.webp",
+    "newName": "P29.webp"
+  },
+  {
+    "order": 30,
+    "nodeId": "a0ed0902-3f01-4f3e-a5af-8963869bcafd",
+    "nodeName": "Entrée Salle A18",
+    "originalPhoto": "IMG_20260325_154737_00_256.webp",
+    "newName": "P30.webp"
+  },
+  {
+    "order": 31,
+    "nodeId": "6ff02fda-9d1c-45cd-8b6b-8035dbf2a07d",
+    "nodeName": "Cor4",
+    "originalPhoto": "IMG_20260325_154824_00_257.webp",
+    "newName": "P31.webp"
+  },
+  {
+    "order": 32,
+    "nodeId": "33f57ded-3f99-4bc8-9194-3ae21224473c",
+    "nodeName": "Escalier 2 Bat 1",
+    "originalPhoto": "IMG_20260325_154839_00_258.webp",
+    "newName": "P32.webp"
+  },
+  {
+    "order": 33,
+    "nodeId": "81edb789-6ad8-4f42-8677-2552051aea72",
+    "nodeName": "Escalier 2 Bat 2",
+    "originalPhoto": "IMG_20260325_154934_00_259.webp",
+    "newName": "P33.webp"
+  },
+  {
+    "order": 34,
+    "nodeId": "4849e8a1-c399-490b-89c2-164e5819419e",
+    "nodeName": "Couloir ? Bat A Et 2",
+    "originalPhoto": "IMG_20260325_154948_00_260.webp",
+    "newName": "P34.webp"
+  },
+  {
+    "order": 35,
+    "nodeId": "271344d3-2b02-4cd9-b033-71292e6c65b6",
+    "nodeName": "Couloir Entrée Salle Réunion Admin",
+    "originalPhoto": "IMG_20260325_155011_00_261.webp",
+    "newName": "P35.webp"
+  },
+  {
+    "order": 36,
+    "nodeId": "d0a316ac-7b63-434f-9925-d109f3dd7e77",
+    "nodeName": "Couloir Entrée 2",
+    "originalPhoto": "IMG_20260325_155037_00_262.webp",
+    "newName": "P36.webp"
+  },
+  {
+    "order": 37,
+    "nodeId": "fce46de3-7136-433d-958f-9512f8a54a39",
+    "nodeName": "Couloir Salle ?",
+    "originalPhoto": "IMG_20260325_155055_00_263.webp",
+    "newName": "P37.webp"
+  },
+  {
+    "order": 38,
+    "nodeId": "f1b513a1-9f0f-45da-9f18-3b8d22ba0dd1",
+    "nodeName": "Couloir Salle ?",
+    "originalPhoto": "IMG_20260325_155133_00_264.webp",
+    "newName": "P38.webp"
+  },
+  {
+    "order": 39,
+    "nodeId": "dd4f53e8-e397-46d2-8dd0-49253be323f7",
+    "nodeName": "Couloir Salle ?",
+    "originalPhoto": "IMG_20260325_155206_00_265.webp",
+    "newName": "P39.webp"
+  },
+  {
+    "order": 40,
+    "nodeId": "40ce6d85-c998-42c9-af18-d82e7caf8d0b",
+    "nodeName": "Couloir Salle A110",
+    "originalPhoto": "IMG_20260325_155221_00_266.webp",
+    "newName": "P40.webp"
+  },
+  {
+    "order": 41,
+    "nodeId": "d8abf6fa-8ecb-409c-9a74-649c3020f053",
+    "nodeName": "Entrée Salle A122",
+    "originalPhoto": "IMG_20260325_155835_00_267.webp",
+    "newName": "P41.webp"
+  },
+  {
+    "order": 42,
+    "nodeId": "7458e7e4-dfb4-4b4e-a435-f6e69f2fa187",
+    "nodeName": "Entrée Salle A123",
+    "originalPhoto": "IMG_20260325_155848_00_268.webp",
+    "newName": "P42.webp"
+  },
+  {
+    "order": 43,
+    "nodeId": "795a9166-2d07-44d6-8596-a1203772bdb5",
+    "nodeName": "C6",
+    "originalPhoto": "IMG_20260325_155938_00_269.webp",
+    "newName": "P43.webp"
+  },
+  {
+    "order": 44,
+    "nodeId": "fa85a25c-19a2-4a8c-8852-5b397f160df2",
+    "nodeName": "C55",
+    "originalPhoto": "IMG_20260325_160011_00_270.webp",
+    "newName": "P44.webp"
+  }
+]
